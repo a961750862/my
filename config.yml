@@ -1,2 +1,2 @@
-config:
-    path:"asdasdads"
+server:
+  port: 3344
